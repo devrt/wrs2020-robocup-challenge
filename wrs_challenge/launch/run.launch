@@ -1,0 +1,3 @@
+<launch>
+  <node pkg="wrs_challenge" type="move.py" name="move" output="screen" required="true" />
+</launch>

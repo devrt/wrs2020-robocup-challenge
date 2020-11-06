@@ -1,0 +1,4 @@
+simulations:
+  - name: wrschallenge
+    type: challenge
+    to: wrs2020-robocup
